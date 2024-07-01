@@ -1,0 +1,22 @@
+{
+    "shops" : [
+        {
+            "idShop" : 1,
+            "name" : "TokoRoti1",
+            "email" : "roti@gmail.com",
+            "password" : "roti1"
+        },
+        {
+            "idShop" : 2,
+            "name" : "TokoBiskuit1",
+            "email" : "biskuit@gmail.com",
+            "password" : "biskuit1"
+        },
+        {
+            "idShop" : 3,
+            "name" : "TokoSayur",
+            "email" : "sayur@gmail.com",
+            "password" : "sayur1"
+        }
+    ]
+}

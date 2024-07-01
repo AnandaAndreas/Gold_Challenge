@@ -1,0 +1,20 @@
+{
+    "users" : [
+        {
+            "idUser" : 1,
+            "username" : "user1",
+            "password" : "pass1",
+            "address" : "asdasdasdasdasdas",
+            "phone_number" : "12312312312312",
+            "email" : "user1@gmail.com"
+        },
+        {
+            "idUser" : 2,
+            "username" : "user2",
+            "password" : "pass2",
+            "address" : "wwwwwwwww",
+            "phone_number" : "902319129381",
+            "email" : "user2@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "product" : [
+        {
+            "idProduct" : 1,
+            "idShop" : 1,
+            "name" : "roti1",
+            "description" : "ini roti 1",
+            "price" : 1000
+        },
+        {
+            "idProduct" : 2,
+            "idShop" : 1,
+            "name" : "roti2",
+            "description" : "ini roti 2",
+            "price" : 2000
+        },
+        {
+            "idProduct" : 3,
+            "idShop" : 2,
+            "name" : "biskuit1",
+            "description" : "ini biskuit",
+            "price" : 3000
+        }
+    ]
+}
+
